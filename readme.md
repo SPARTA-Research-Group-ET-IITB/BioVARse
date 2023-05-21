@@ -6,7 +6,7 @@ BioVARse is a mobile application that is intended to be used as a textbook compa
 The NCERT textbooks are available publicially for grades 1 to 12, on this link: https://ncert.nic.in/textbook.php
 
 ## Installation
-Currently the app is developed for Android OS only, support for other OS will come later. The link to download the app is given in BioVARse 6.2.md file.
+Currently the app is developed for Android OS only, support for other OS will come later. The link to download the app is given in BioVARse 6.2.md (https://github.com/SPARTA-Research-Group-ET-IITB/BioVARse/blob/main/BioVARse%206.2.md) file.
 Once downloaded on the mobile devie (running android), the installation process is similar to other applications.
 
 ## Usage
