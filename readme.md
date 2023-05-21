@@ -15,5 +15,5 @@ To use the app point it to the respective diagram in the textbook, which will re
 ## Troubleshooting
 In case you encounter any issues or have questions about our project, please drop a mail to 22d1201@iitb.ac.in
 
-# Thank You
+### Thank You
 Thank you for using BioVARse! We hope this software boosts your learning. If you have any suggestions or feedback, please let us know.
