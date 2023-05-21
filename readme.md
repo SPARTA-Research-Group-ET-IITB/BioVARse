@@ -13,7 +13,7 @@ Once downloaded on the mobile devie (running android), the installation process 
 To use the app point it to the respective diagram in the textbook, which will result in a 3D model appearing on the interface with which a user can interact with. 
 
 ## Troubleshooting
-In case you encounter any issues or have questions about our project, please drop a mail to 22d1201@iitb.ac.in
+In case you encounter any issues or have questions about our project, please drop a mail to spartaresearchgroup@gmail.com 
 
 ### Thank You
 Thank you for using BioVARse! We hope this software boosts your learning. If you have any suggestions or feedback, please let us know.
